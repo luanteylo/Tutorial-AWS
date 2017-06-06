@@ -1,4 +1,4 @@
-# Minicurso - AWS-Primeiros Passos
+# AWS-Primeiros Passos
 
 Esta apresentação é tutorial básico do uso da AWS (EC2 e S3) e foi ministrada no dia 06/06/2017 para alunos da disciplina 
 de Sistemas Distribuídos da Universidade Federal Fluminense.
