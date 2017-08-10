@@ -1,7 +1,8 @@
 # AWS-Primeiros Passos
 
-Esta apresentação é tutorial básico do uso da AWS (EC2 e S3) e foi ministrada no dia 06/06/2017 para alunos da disciplina 
-de Sistemas Distribuídos da Universidade Federal Fluminense.
+Tutorial básico da criação de contas e primeiros passos nos serviços EC2 e S3 da Amazon Web Services (AWS).
+
+*Ministrado no dia 06/06/2017 para alunos da disciplina de Sistemas Distribuídos da Universidade Federal Fluminense.
 
 ## Versioning
 
