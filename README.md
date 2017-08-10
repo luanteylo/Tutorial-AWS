@@ -2,7 +2,7 @@
 
 Tutorial básico da criação de contas e primeiros passos nos serviços EC2 e S3 da Amazon Web Services (AWS).
 
-*Ministrado no dia 06/06/2017 para alunos da disciplina de Sistemas Distribuídos da Universidade Federal Fluminense.
+_Ministrado no dia 06/06/2017 para alunos da disciplina de Sistemas Distribuídos da Universidade Federal Fluminense._
 
 ## Versioning
 
