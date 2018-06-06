@@ -1,11 +1,10 @@
 # AWS-Primeiros Passos
 
-Esta apresentação é tutorial básico do uso da AWS (EC2 e S3) e foi ministrada no dia 06/06/2017 para alunos da disciplina 
-de Sistemas Distribuídos da Universidade Federal Fluminense.
+Esta apresentação é tutorial básico do uso da AWS (EC2 e S3) e foi ministrada no dia 07/06/2018 para alunos de graduação na Universidade Federal Fluminense.
 
 ## Versioning
 
-versão 1.0 - 2017.
+versão 2.0 - 2018.
 
 ## Authors
 
